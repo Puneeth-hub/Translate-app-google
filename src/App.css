@@ -16,8 +16,13 @@ body{
 }
 
 .header{
-  font-family: 'Azeret Mono', monospace;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 30px;
+  color: darkmagenta;
+  text-decoration: underline; 
+  text-transform: capitalize;
+  font-size: 35px;
+  
 }
 
 .app-body{
@@ -71,6 +76,8 @@ body{
   border: 1px solid blue;
   border-radius: 5px;
   padding: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
 }
 
 
