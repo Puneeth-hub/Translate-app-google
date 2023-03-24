@@ -161,7 +161,7 @@ function Translate() {
         method: 'GET',
         headers: {
             'Accept-Encoding': 'application/gzip',
-            'X-RapidAPI-Key': 'caca96ab18msh8c66ba10d7023a9p144646jsndd92dada19dd',
+            'X-RapidAPI-Key': 'f4ad8fd277msh667f317f6fc9897p1778b6jsnceb617c96586',
             'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
         }
         
@@ -186,7 +186,7 @@ const options = {
 	headers: {
 		'content-type': 'application/x-www-form-urlencoded',
         'Accept-Encoding': 'application/gzip',
-        'X-RapidAPI-Key': 'caca96ab18msh8c66ba10d7023a9p144646jsndd92dada19dd',
+        'X-RapidAPI-Key': 'f4ad8fd277msh667f317f6fc9897p1778b6jsnceb617c96586',
         'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
 
 	},
@@ -239,7 +239,7 @@ fetch('https://google-translate1.p.rapidapi.com/language/translate/v2/detect', o
             headers: {
                 'content-type': 'application/x-www-form-urlencoded',
                 'Accept-Encoding': 'application/gzip',
-                'X-RapidAPI-Key': 'caca96ab18msh8c66ba10d7023a9p144646jsndd92dada19dd',
+                'X-RapidAPI-Key': 'f4ad8fd277msh667f317f6fc9897p1778b6jsnceb617c96586',
                 'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
             },
             body: encodedValue
